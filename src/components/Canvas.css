@@ -1,0 +1,29 @@
+.root {
+  padding: 20px;
+  color: #ffffff;
+  width: 640px;
+  height: 360px;
+  display: flex;
+  justify-content: center;
+  border: solid 1px black;
+  border-radius: 16px;
+}
+
+.white {
+  background-color: #ffffff;
+}
+
+.blue {
+  background-color: #4050b5;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  position: absolute;
+  top: 30%;
+}
