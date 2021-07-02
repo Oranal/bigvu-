@@ -1,0 +1,8 @@
+for runnig the code locally do the follwing steps:
+1.you will need to have vs code on youer device.
+2.youj will need to install node-js.
+3.for runnig the code you can use npm or yarn.
+4. do npm install for installing the packages.
+5. run npm start.
+6. enjoy to use this app.
+7.THANKS FOR ALL!
